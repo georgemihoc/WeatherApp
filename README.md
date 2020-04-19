@@ -10,6 +10,7 @@ Light appearance
 <img src="https://user-images.githubusercontent.com/45356920/79699866-bdda5b80-829a-11ea-8a99-7a151ee2b08f.png" width="350" height="700">
 
 Location-based weather information included, also possibility to search the current weather in any city.
-Data fetched using openweather API
+
+Data fetched using openweather API.
 
 
